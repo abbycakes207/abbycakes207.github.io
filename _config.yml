@@ -1,15 +1,15 @@
 # Site settings
-title: Clean Blog
+title: Abigail Monson
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: abigail.ann.monson@gmail.com
 copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "A place to learn all about Abigail Monson, that's me!"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+url: "www.abigailmonson.me"
+twitter_username: abigailmonson
+github_username:  abbycakes207
+facebook_username: Abigail Monson
+email_username:  abigail.ann.monson@gmail.com
 
 # Build settings
 markdown: kramdown
